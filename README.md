@@ -10,7 +10,7 @@ Turma 45 - Alan Mitchell Durham
 Primeiro Exercício-Programa:                
 Shell iterativo para Minix
                                            
-Lucas Dário                 7572102    
+Lucas Dário                 
 Renato Cordeiro Ferreira    7990933    
                                            
 Em caso de eventuais problemas, acesse:       
