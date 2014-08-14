@@ -1,0 +1,10 @@
+set number
+set ruler
+set autoindent
+set autowrite
+set report=2
+set showmatch
+set shiftwidth=4
+set tabstop=4
+set ts=4
+set showmode
